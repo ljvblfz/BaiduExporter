@@ -48,6 +48,14 @@
 			<string>http://yun.baidu.com/share/link*</string>
 			<string>http://pan.baidu.com/pcloud/album/info*</string>
 			<string>http://yun.baidu.com/pcloud/album/info*</string>
+			<string>https://pan.baidu.com/s/*</string>
+			<string>https://pan.baidu.com/disk/home*</string>
+			<string>https://pan.baidu.com/share/link*</string>
+			<string>https://yun.baidu.com/s/*</string>
+			<string>https://yun.baidu.com/disk/home*</string>
+			<string>https://yun.baidu.com/share/link*</string>
+			<string>https://pan.baidu.com/pcloud/album/info*</string>
+			<string>https://yun.baidu.com/pcloud/album/info*</string>
 		</array>
 	</dict>
 	<key>Description</key>
